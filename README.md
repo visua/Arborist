@@ -1,4 +1,5 @@
 # Arborist
-A minimalist theme for Alfred
+A minimalist theme for [Alfred](https://www.alfredapp.com)
 
-![]('https://github.com/visua/Arborist/blob/master/preview.png?raw=true')
+
+![Arborist Alfred Theme Preview]('preview.png')
